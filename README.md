@@ -21,8 +21,11 @@ In this project, I created a simple Convolutional Neural Network (CNN) to classi
 
 ## About the Dataset
 *CIFAR-10 has 10 classes*:
+
 -Airplane
+
 -Automobile
+
 -Bird
 -Cat
 -Deer
