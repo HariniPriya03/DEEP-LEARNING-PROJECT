@@ -34,7 +34,7 @@ It has 50,000 training images and 10,000 test images. Each image is a small 32x3
 
 ## How the Project Works
 
-Loading and Preparing Data
+### Loading and Preparing Data
 I used PyTorch’s torchvision to download the dataset automatically. The images are converted to tensors and normalized, which helps the model learn better. The data is divided into batches and shuffled during training.
 
 The CNN Model
