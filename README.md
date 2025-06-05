@@ -88,7 +88,7 @@ I wrote and ran the code in Visual Studio Code (VSCode). The built-in terminal m
 - Training time depends on your computer — usually a few minutes on CPU, faster with a GPU.
 
 ## Ideas to Improve
-- To make the model better, you can:
+To make the model better, you can:
 
 - Train for more epochs.
 
