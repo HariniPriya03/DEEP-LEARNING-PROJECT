@@ -1,49 +1,39 @@
 # DEEP-LEARNING-PROJECT
 
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-NAME: G. HARINI PRIYA
+*NAME*: G. HARINI PRIYA
 
-INTERN ID: CT04DN652
+*INTERN ID*: CT04DN652
 
-DOMAIN: DATA SCIENCE
+*DOMAIN*: DATA SCIENCE
 
-DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
-CIFAR-10 Image Classification with PyTorch (Built in VSCode)
-Project Overview
+## CIFAR-10 Image Classification with PyTorch 
+
+## Project Overview
 In this project, I created a simple Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset using PyTorch. CIFAR-10 is a well-known dataset in computer vision, containing 60,000 small color images divided into 10 classes. The goal was to train a model that can correctly identify the category of new images.
+`The project shows the full process—from loading data, training the CNN, checking how well it works, to visualizing the results. I built and ran everything using Visual Studio Code (VSCode).`
 
-The project shows the full process—from loading data, training the CNN, checking how well it works, to visualizing the results. I built and ran everything using Visual Studio Code (VSCode).
-
-About the Dataset
-CIFAR-10 has 10 classes:
-
+## About the Dataset
+*CIFAR-10 has 10 classes*:
 Airplane
-
 Automobile
-
 Bird
-
 Cat
-
 Deer
-
 Dog
-
 Frog
-
 Horse
-
 Ship
-
 Truck
-
 It has 50,000 training images and 10,000 test images. Each image is a small 32x32 pixel color picture. Since the dataset isn’t too big or complicated, it’s great for learning and testing deep learning models.
 
-How the Project Works
+## How the Project Works
+
 Loading and Preparing Data
 I used PyTorch’s torchvision to download the dataset automatically. The images are converted to tensors and normalized, which helps the model learn better. The data is divided into batches and shuffled during training.
 
