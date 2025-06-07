@@ -104,4 +104,8 @@ To make the model better, you can:
 This project is a simple example of how to build and train a CNN for image classification using PyTorch in VSCode. It covers all the main steps — loading data, training, evaluating, and visualizing — and is a good starting point for learning more about computer vision with deep learning.
 
 ## Output 
+### Test Images
 ![Image](https://github.com/user-attachments/assets/eb4ada75-e560-48b9-ad2f-b2016ed7d689)
+
+### Training over loss matplotlib graph
+![Image](https://github.com/user-attachments/assets/a39ea550-37b2-474d-a013-86a911c1a6eb)
